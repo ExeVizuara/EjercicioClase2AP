@@ -1,1 +1,3 @@
-Texto de prueba para ejercicio.
+Texto de prueba para ejercicio en almacenamiento local.
+
+Texto de prueba para ejercicio desde web.
